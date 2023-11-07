@@ -1,0 +1,17 @@
+{
+    "name": "php/app",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rex"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
